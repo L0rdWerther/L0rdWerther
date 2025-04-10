@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi there! I'm João Henrique 👋<br><br>I'm a software developer at the PCDF (Civil Police of the Federal District) with experience in Python, Database (MySql, Postgre), and Java. I'm passionate about building efficient solutions and exploring the potential of artificial intelligence.<br><br>Currently, I’m also a Computer Science student at IFB Taguatinga (since 2023), where I'm further developing my skills and knowledge in the tech world.<br><br>Feel free to explore my repositories, and don't hesitate to reach out if you're interested in collaborating!
 
-Proficiency in English and Spanish (CIL 02 of Brasília)
+Portuguese native and proficiency in English and Spanish (CIL 02 of Brasília)
 
 
 ## 🌐 Socials:
